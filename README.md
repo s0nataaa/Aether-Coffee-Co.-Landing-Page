@@ -4,9 +4,10 @@ A modern, elegant coffee shop landing page built as a personal learning project 
 
 ## 📸 Screenshots
 
-*(Add your screenshots here)*
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/ecf4fb74-0314-4e83-898d-7d6b4a35ae88" />
 
-![Coffee Landing Page Preview](screenshot.png)
+## 🔎 Website Preview
+![Aether Coffee Co. Preview](screenshot.png)
 
 ## 🎯 Project Overview
 
