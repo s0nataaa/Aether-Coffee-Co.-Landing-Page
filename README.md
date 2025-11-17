@@ -6,8 +6,8 @@ A modern, elegant coffee shop landing page built as a personal learning project 
 
 <img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/ecf4fb74-0314-4e83-898d-7d6b4a35ae88" />
 
-## 🔎 Website Preview
-![Aether Coffee Co. Preview](https://s0nataaa.github.io/Aether-Coffee-Co.-Landing-Page/)
+## 🌐 Live Demo
+👉 **[View Live Site](https://s0nataaa.github.io/Aether-Coffee-Co.-Landing-Page/)**
 
 ## 🎯 Project Overview
 
