@@ -1,0 +1,167 @@
+body {
+    margin: 0;
+    background: linear-gradient(to right, #000000, #c89116);
+    color: #bcb2ab;
+}
+
+html {
+    font-family: "Poppins", sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: uppercase;
+    color: #bcb2ab;
+    padding: 2px 30px;
+    background-color: #553521;
+    margin: 20px 15px 15px 15px;
+    border-radius: 20px;
+}
+
+.nav {
+    background-color: #553521;
+    border-radius: 8px;
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: #bcb2ab;
+    transition: 0.3s;
+    margin-left: 15px;
+}
+
+a:hover {
+    color: white;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.search {
+    border-radius: 8px;
+    background-color: #22130f;
+    border: none;
+    color: #d8cdc6;
+    padding: 8px 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-right: 150px;
+    margin-right: 25px;
+}
+
+.search:hover {
+    border: 3px solid white;
+    color: white;
+}
+
+.search:focus {
+    border: 3px solid white;
+    color: white;
+    outline: none;
+}
+
+
+.contact-me {
+    background-color: #553521;
+    border-radius: 8px;
+    color: #bcb2ab;
+    text-transform: uppercase;
+    border: none;
+    padding: 8px 15px;
+    background-color: #22130f;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.contact-me:hover {
+    border: 3px solid white;
+    color: white;
+}
+
+.hero {
+    color: #cda270;
+    display: flex;
+    flex-direction: column;
+    margin-top: 5px;
+    padding: 30px 20px;
+    align-items: flex-start;
+    text-align: left;
+    margin-left: 25px;
+}
+
+.hero h1 {
+    font-size: 65.8px;
+    margin-bottom: 5px;
+    max-width: 600px;
+}
+
+.hero p {
+    font-size: 19px;
+    margin-bottom: 20px;
+    max-width: 450px;
+    color: white;
+}
+
+.get-product {
+    border: none;
+    color: #bcb2ab;
+    background-color: #553521 !important;
+    border-radius: 8px !important;
+    text-transform: uppercase !important;
+    cursor: pointer !important;
+    padding: 15px 15px !important;
+    transition: 0.3s !important;
+    align-self: flex-start;
+    font-size: 17px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.get-product:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em white;
+    border: 5px solid white;
+    color: white;
+}
+
+.badge {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: flex-end;
+    position: absolute;
+    right: 100px;
+    bottom: 85px;
+}
+
+.badge-panel {
+    display: flex;
+    flex-direction: column;
+    background-color: #553521;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 12px;
+    padding: 5px;
+    width: 120px;
+}
+
+img {
+    width: 65px;
+}
+
+video {
+    border: 5px solid white;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 600px;
+    position: absolute;
+    right: 100px;
+    bottom: 250px;
+}
