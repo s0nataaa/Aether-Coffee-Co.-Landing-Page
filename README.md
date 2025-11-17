@@ -2,6 +2,10 @@
 
 A modern, elegant coffee shop landing page built as a personal learning project to practice HTML and CSS fundamentals.
 
+## 📸 Screenshots
+
+*(Add your screenshots here)*
+
 ![Coffee Landing Page Preview](screenshot.png)
 
 ## 🎯 Project Overview
@@ -46,11 +50,6 @@ aether-coffee/
 ├── tasty.png          # Tasty badge icon
 └── README.md          # Project documentation
 ```
-
-## 📸 Screenshots
-
-*(Add your screenshots here)*
-
 
 ## 📝 License
 
